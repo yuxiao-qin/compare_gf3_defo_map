@@ -1,6 +1,6 @@
 matplotlib
-numpy
+numpy<2
 rasterio
 pytest
 scipy
-scikit-learn
+scikit-learn<1.5
