@@ -53,7 +53,6 @@ def plot_compare_geotiff(reference, comparate):
     return
 
 
-
 if __name__ == '__main__':
     reference = read_geotiff()
     imshow_geotiff(reference)
